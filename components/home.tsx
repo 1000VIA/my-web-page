@@ -24,7 +24,7 @@ const Home = () => {
         </h1>
         <span className="text-3xl m-4">💻</span>
         <span className="text-2xl text-gray-400 m-4">
-          Desarrolladora javascript{" "}
+          Desarrolladora javascript
         </span>
         <section className="w-full h-full flex items-center justify-center">
           <Image
