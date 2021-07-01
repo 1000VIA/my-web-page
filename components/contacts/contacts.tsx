@@ -46,7 +46,12 @@ const Contacts = () => {
           </a>
         </Link>
       </div>
-
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos
+        saepe esse, placeat rem perspiciatis enim quo quod commodi voluptatem
+        ex, magni aperiam dolores incidunt aliquam sequi reprehenderit hic
+        praesentium voluptas.
+      </p>
       <Footer />
     </div>
   );
